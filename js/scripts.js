@@ -18,12 +18,4 @@ $(document).ready(function() {
     $(destination).show("200ms");
     $(destination2).hide("200ms");
   });
-
-  // $("p").click(function() {
-  //   var id = $(this).parent().attr("id");
-  //   var destination = "#" + id + " p";
-  //   $(".term").show("200ms");
-  //   $(".definition").hide();
-  // });
-
 });
