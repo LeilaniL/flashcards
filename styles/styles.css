@@ -2,3 +2,16 @@
 p {
   display: none;
 }
+h1 {
+  text-align: center;
+  font-family: monospace;
+  line-height: 75px;
+  font-size: 60px;
+}
+.row {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.col-md-3 {
+  /*border: 4px solid blue;*/
+}
